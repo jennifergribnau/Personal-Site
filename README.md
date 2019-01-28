@@ -12,6 +12,8 @@
     Some Things About Myself  </h2>
   
   <h3> Interests and Hobbies  </h3>
+<img src="http://toreronetwork.sandiego.edu/s/1374/images/gid2/editor/regional/regional_events/sanfrancisco/sf_giants.jpg" height="100" width="100">
+  </img>
 
 <h3> What I like to watch on TV </h3>
 <ul>
