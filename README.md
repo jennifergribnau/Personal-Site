@@ -17,8 +17,8 @@
   </img>
   <img src="https://cdn7.bigcommerce.com/s-a4w28t94lu/images/stencil/500x659/products/78310/85224/13261-nfl-san-francisco-49ers-foil-balloon2__02099.1492707747.jpg?c=2" height="120" width="120"> </img>
   <img src="http://www.gusclemensonwine.com/wp-content/uploads/2018/12/La-Jota-Merlot-Howell-Mountain-Napa-Valley-2015.jpg" height="100" width="100"> </img>
-  <img src="https://cdn7.bigcommerce.com/s-a4w28t94lu/images/stencil/500x659/products/78310/85224/13261-nfl-san-francisco-49ers-foil-balloon2__02099.1492707747.jpg?c=2" height="120" width="120"> </img>
   <img src="https://usateatsiptrip.files.wordpress.com/2018/03/gettyimages-887636042.jpg?w=1000&h=600&crop=1" height="100" width="100"> </img>
+  <img src="https://api.gretchenrubin.com/wp-content/uploads/2016/02/books-open-on-table.jpg" height="100" width="100"> </img>
   </div>
   <br> <p>
   I really enjoy watching my favorite sports teams, drinking and learning about new wines, cooking and reading.
