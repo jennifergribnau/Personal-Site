@@ -1,7 +1,7 @@
 # Personal-Site
 <html> 
   <head> <h1>  
-    Jennifer Gribnau 
+    Jennifer Gribnau's Personal Homepage 
     </h1>  </head>
   
        
