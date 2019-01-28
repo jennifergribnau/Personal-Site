@@ -1,6 +1,6 @@
 # Personal-Site
 <html> 
-  <head>
+  <head>  <h1>
     Jennifer Gribnau
-    </head>
+    </h1> </head>
 <body>
