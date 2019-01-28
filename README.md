@@ -23,7 +23,7 @@
   <br> <p>
   I really enjoy watching my favorite sports teams, drinking and learning about new wines, cooking and reading.
 <div>
-<h3> What I like to watch on TV </h3>
+<h3> What I Like to Watch on TV </h3>
 <ul>
   <li>  <a href="https://www.youtube.com/watch?v=PB-IdRkquxs" target="_blank">Forged in Fire</a></li>
   <li>  <a href="http://www.bravotv.com/top-chef" target="_blank">Top Chef</a></li>
