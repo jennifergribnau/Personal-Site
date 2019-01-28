@@ -10,5 +10,7 @@
 <body>
   <h2>
     Some things about myself  </h2>
+  
+  <h3> Interests and Hobbies  </h3>
 
 <h3> What I like to watch on TV </h3>
