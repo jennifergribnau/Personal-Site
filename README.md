@@ -1,7 +1,7 @@
 # Personal-Site
 <html> 
   <head> <h1>
-    <title> Jennifer Gribnau </title>
+     Jennifer Gribnau 
     </h1>  </head>
   
        
