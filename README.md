@@ -8,8 +8,8 @@
   <h5>  <p> Hello, I'm Jennifer and this is my first attempt at making a personal homepage. </p>
   </h5>
 <body>
- <div> <h2>
-    Some Things About Myself  </h2> 
+ <div> <h2> <p align=center>
+   Some Things About Myself  </p> </h2> 
   </div>
   <div> <h3> Interests and Hobbies  </h3> <div>
 <div class="row">
